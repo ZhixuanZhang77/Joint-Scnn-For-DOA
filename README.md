@@ -17,4 +17,5 @@
 1) The class of our method and method using the original tandem learning are respectively sResnet7_v2 and sResnet7 in model.py.
 2) The matlab code .m files in this project are responsible for generation of the relavent training/evaluation datasets, which were used in Ref [7].
 3) If training methods, please fix and run cnn_R_low.py.
+4) All evaluation codes are included in other codes in this project.
 
